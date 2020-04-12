@@ -12,12 +12,6 @@ body{
     margin:0;
     padding:20px;
   }
-  h4{
-    border-width:2px;
-    border-color:rgb(22, 138, 184);
-    border-style:solid;
-    display:inline;
-  }
   #grid{
     display:grid;
     grid-template-columns:100px 1fr;
